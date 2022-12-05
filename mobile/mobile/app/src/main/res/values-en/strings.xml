@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">MentalHealth</string>
+    <string name="started_title">Hello You!</string>
+    <string name="started_sub_title">
+        Nice to meet you!
+        <br><b>Login</b> if you already have an account.</br>
+        <br><b>Register</b> to get started with the app.</br>
+    </string>
+    <string name="illustration_img">Illustration Image</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="login_title">Login to app</string>
+    <string name="login_sub_title">
+        <font color="#00C9B8"><b>Login</b></font>
+        if you already have an account.
+    </string>
+    <string name="login_email">Your email</string>
+    <string name="login_password">Your password</string>
+    <string name="login_havent_account">
+        I don\'t have an account <font color="#00C9B8"><b>Register</b></font>
+    </string>
+    <string name="register_title">Create an account</string>
+    <string name="register_sub_title">
+        <font color="#00C9B8"><b>Register</b></font>
+        to get started with the app.
+    </string>
+    <string name="notes1"><font color="#00C9B8"><b>NOTES</b></font></string>
+    <string name="notes2"><b>You can leave notes about your health.</b></string>
+    <string name="article1"><font color="#00C9B8"><b>ARTICLES</b></font></string>
+    <string name="article2"><b>You can read articles about mental health.</b></string>
+    <string name="training1"><font color="#00C9B8"><b>Trainings</b></font></string>
+    <string name="training2"><b>You can take mental health training.</b></string>
+    <string name="register_full_name">Your full name</string>
+    <string name="register_date"><font color="#00C9B8"><b>Birth date</b></font></string>
+    <string name="register_have_account">
+        I already have an account <font color="#00C9B8"><b>Login</b></font>
+    </string>
+    <string name="work_with_note"><b>Work with notes.</b></string>
+    <string name="editor"><font color="#00C9B8"><b>Editor</b></font></string>
+    <string name="title_of_note">Title of note</string>
+    <string name="your_text_of_note">Your text of note</string>
+    <string name="save_note">SAVE NOTE</string>
+    <string name="note">NOTE</string>
+    <string name="atricle">ARTICLE</string>
+    <string name="training">TRAINING</string>
+    <string name="back">BACK</string>
+    <string name="chosen_training">Chosen training</string>
+    <string name="article_title">Article Title</string>
+    <string name="training_description">Training description</string>
+    <string name="training_task">Training task</string>
+    <string name="time_to_complete">Time to complete</string>
+    <string name="chosen_article">Chosen article</string>
+    <string name="language">Language</string>
+
+
+</resources>

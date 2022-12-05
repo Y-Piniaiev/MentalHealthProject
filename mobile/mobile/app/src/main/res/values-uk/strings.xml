@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">MentalHealth</string>
+    <string name="started_title">Привіт!</string>
+    <string name="started_sub_title">
+        Радий зустрічі!
+        <br><b>Увійти</b> якщо у вас вже є обліковий запис.</br>
+        <br><b>Зареєструватися</b> щоб почати роботу з програмою.</br>
+    </string>
+    <string name="illustration_img">Зображення ілюстрації</string>
+    <string name="btn_register">ЗАРЕЄСТРУВАТИСЯ</string>
+    <string name="btn_login">ВХІД</string>
+    <string name="login_title">Увійти в додаток</string>
+    <string name="login_sub_title">
+        <font color="#00C9B8"><b>Вхід</b></font>
+        якщо у вас вже є обліковий запис.
+    </string>
+    <string name="login_email">Ваша електронна пошта</string>
+    <string name="login_password">Ваш пароль</string>
+    <string name="login_havent_account">
+        У мене немає облікового запису <font color="#00C9B8"><b>Зареєструватися</b></font>
+    </string>
+    <string name="register_title">Створити аккаунт</string>
+    <string name="register_sub_title">
+        <font color="#00C9B8"><b>Зареєструватися</b></font>
+        щоб почати роботу з програмою.
+    </string>
+    <string name="notes1"><font color="#00C9B8"><b>ПРИМІТКИ</b></font></string>
+    <string name="notes2"><b>Ви можете залишати записи про своє здоров\'я.</b></string>
+    <string name="article1"><font color="#00C9B8"><b>СТАТТІ</b></font></string>
+    <string name="article2"><b>Ви можете прочитати статті про психічне здоров\'я.</b></string>
+    <string name="training1"><font color="#00C9B8"><b>Тренінги</b></font></string>
+    <string name="training2"><b>Ви можете пройти навчання психічного здоров\’я.</b></string>
+    <string name="register_full_name">Ваше повне ім\'я</string>
+    <string name="register_date"><font color="#00C9B8"><b>Дата народження</b></font></string>
+    <string name="register_have_account">
+        У мене вже є обліковий запис <font color="#00C9B8"><b>Логін</b></font>
+    </string>
+    <string name="work_with_note"><b>Робота з примітками.</b></string>
+    <string name="editor"><font color="#00C9B8"><b>Редактор</b></font></string>
+    <string name="title_of_note">Назва примітки</string>
+    <string name="your_text_of_note">Ваш текст записки</string>
+    <string name="save_note">ЗБЕРЕГТИ ПРИМІТКУ</string>
+    <string name="note">ПРИМІТКи</string>
+    <string name="atricle">СТАТТІ</string>
+    <string name="training">ТРЕНІНГИ</string>
+    <string name="back">НАЗАД</string>
+    <string name="chosen_training">Обраний тренінг</string>
+    <string name="article_title">Назва статті</string>
+    <string name="training_description">Опис тренінгу</string>
+    <string name="training_task">Тренувальне завдання</string>
+    <string name="time_to_complete">Час виконання</string>
+    <string name="chosen_article">Вибрана стаття</string>
+    <string name="language">Мова</string>
+
+
+</resources>

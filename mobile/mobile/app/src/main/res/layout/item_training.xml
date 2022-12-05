@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/ItemCardStyle"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardCornerRadius="12dp"
+    app:cardElevation="4dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="8dp">
+
+        <ImageView
+            android:id="@+id/imageTraining"
+            android:layout_width="375dp"
+            android:layout_height="200dp"/>
+
+        <TextView
+            android:id="@+id/titleTraining"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:maxLines="5"
+            android:padding="2dp"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            tools:text="Article Title" />
+
+        <TextView
+            android:id="@+id/countTraining"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:maxLines="1"
+            android:padding="2dp"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            tools:text="Count of views" />
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
